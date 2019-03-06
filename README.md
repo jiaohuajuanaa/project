@@ -1,6 +1,9 @@
 
+
 # 员工信息管理系统
+
 <hr>
+
 ### 员工信息管理系统数据接口
 
 # 技术：
@@ -14,7 +17,9 @@
 ### [http://jiaohuajuan.online/worker.html](http://jiaohuajuan.online/worker.html)
 
 # 获取数据接口
+
 <hr>
+
 ### 接口地址：公网：[http://jiaohuajuan.online/getData](http://jiaohuajuan.online/getData)
 
 ### 返回格式：json
@@ -88,7 +93,9 @@
    </tbody>
 </table>
 # 删除数据接口
+
 <hr>
+
 ### 接口地址：公网：[http://jiaohuajuan.online/deleteData](http://jiaohuajuan.online/deleteData)
 
 ### 返回格式：json
@@ -102,6 +109,7 @@
 #### id:要删除员工的ID
 
 ### 返回参数说明：
+
 <table>
     <thead>
         <tr>
@@ -123,8 +131,11 @@
         </tr>
     </tbody>
 </table>
+
 # 添加数据接口
+
 <hr>
+
 ### 接口地址：公网：[http://jiaohuajuan.online/addData2](http://jiaohuajuan.online/addData2)
 
 ### 返回格式：json
@@ -195,7 +206,9 @@
         </tr>
    </tbody>
 </table>
+
 ## 返回参数说明：
+
 <table>
     <thead>
         <tr>
@@ -217,8 +230,11 @@
         </tr>
     </tbody>
 </table>
+
 # 修改数据接口
+
 <hr>
+
 ### 接口地址：公网：[http://jiaohuajuan.online/editData](http://jiaohuajuan.online/editData)
 
 ### 返回格式：json
@@ -228,6 +244,7 @@
 ### 请求示例:[http://jiaohuajuan.online/editData](http://jiaohuajuan.online/editData)
 
 ## 请求参数说明:
+
 <table>
    <thead>
          <tr>
@@ -289,7 +306,9 @@
         </tr>
    </tbody>
 </table>
+
 ## 返回参数说明：
+
 <table>
     <thead>
         <tr>
