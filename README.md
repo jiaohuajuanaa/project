@@ -1,21 +1,33 @@
 # project
+
 仓库描述
+
 #员工信息管理系统
 <hr>
 ###员工信息管理系统数据接口
+
 #技术：
+
 ###前端技术：html css vue axios ElementUI
+
 ###后端技术：node.js(express,url,express-static,mysQl)
+
 #测试地址：
+
 ###[http://jiaohuajuan.online/worker.html](http://jiaohuajuan.online/worker.html)
 
 #获取数据接口
 <hr>
 ###接口地址：公网：[http://jiaohuajuan.online/getData](http://jiaohuajuan.online/getData)
+
 ###返回格式：json
+
 ###请求方式：get http
+
 ###请求示例:[http://jiaohuajuan.online/getData](http://jiaohuajuan.online/getData)
+
 ##请求参数说明:无
+
 ##返回参数说明：
 <table>
    <thead>
@@ -81,11 +93,17 @@
 #删除数据接口
 <hr>
 ###接口地址：公网：[http://jiaohuajuan.online/deleteData](http://jiaohuajuan.online/deleteData)
+
 ###返回格式：json
+
 ###请求方式：get http
+
 ###请求示例:[http://jiaohuajuan.online/deleteData?ID="+id](http://jiaohuajuan.online/deleteData?ID="+id)
+
 ###请求参数说明:
+
 ####id:要删除员工的ID
+
 ###返回参数说明：
 <table>
     <thead>
@@ -111,9 +129,13 @@
 #添加数据接口
 <hr>
 ###接口地址：公网：[http://jiaohuajuan.online/addData2](http://jiaohuajuan.online/addData2)
+
 ###返回格式：json
+
 ###请求方式：get http
+
 ###请求示例:[http://jiaohuajuan.online/addData2](http://jiaohuajuan.online/addData2)
+
 ##请求参数说明:
 <table>
    <thead>
@@ -201,9 +223,13 @@
 #修改数据接口
 <hr>
 ###接口地址：公网：[http://jiaohuajuan.online/editData](http://jiaohuajuan.online/editData)
+
 ###返回格式：json
+
 ###请求方式：get http
+
 ###请求示例:[http://jiaohuajuan.online/editData](http://jiaohuajuan.online/editData)
+
 ##请求参数说明:
 <table>
    <thead>
